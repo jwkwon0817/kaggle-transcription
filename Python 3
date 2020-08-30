@@ -1,0 +1,7 @@
+def go():
+    print("Hello")
+    print("Hello")
+    print("Hello")
+go()
+go()
+go()

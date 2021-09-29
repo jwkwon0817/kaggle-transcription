@@ -20,7 +20,8 @@ _**(커널 커리큘럼 작성자 이유한님 - (https://www.kaggle.com/youhanl
 # **Binary classification : Tabular data**
 
 ### **1st level. Titanic: Machine Learning from Disaster**
-  * 타이타닉 튜토리얼 1 - Exploratory data analysis, visualization, machine learning
+  * 타이타닉 튜토리얼 1 - Exploratory data analysis, visualization, machine learning\
+    - Most Votes : https://www.kaggle.com/startupsci/titanic-data-science-solutions
   * EDA To Prediction(DieTanic)
   * Titanic Top 4% with ensemble modeling
   * Introduction to Ensembling/Stacking in Python

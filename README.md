@@ -8,9 +8,9 @@ _**(커널 커리큘럼 작성자 이유한님 - (https://www.kaggle.com/youhanl
 #
 
 **[Study Member]**
-  * 권지원
-  * 임유경
-  * 권혁중
+  * 권지원(jwkwon0817)
+  * 임유경(LimYuGyeong)
+  * 권혁중(DanielKwon)
 
 #### 큰 목차의 제목이 폴더이름
 #### 폴더안에 [항목명_GitHub 아이디_횟수.ipynb] 형식으로 저장

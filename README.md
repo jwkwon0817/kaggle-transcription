@@ -12,8 +12,8 @@ _**(커널 커리큘럼 작성자 이유한님 - (https://www.kaggle.com/youhanl
   * 권혁중
 
 #### 큰 목차의 제목이 폴더이름
-#### 폴더안에 [항목명_이름.ipynb] 형식으로 저장
-##### ex) 1-1_권지원.ipynb <- Binary classification에서 1st level에서 타이타닉 튜토리얼 1을 의미함.
+#### 폴더안에 [항목명_이름_횟수.ipynb] 형식으로 저장
+##### ex) 1-1_권지원_1.ipynb <- Binary classification에서 1st level에서 타이타닉 튜토리얼 1을 첫번째 필사함을 의미함.
 ---
 
 # **Binary classification : Tabular data**

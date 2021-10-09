@@ -10,16 +10,14 @@ _**커널 커리큘럼 작성자 [이유한](https://www.kaggle.com/youhanlee)�
 #
 
 **[Study Member]**
-  * **권지원(**_jwkwon0817_**)**
-  * **임유경(**_LimYuGyeong_**)**
-  * **권혁중(**_DanielKwon_**)**
+  * **권지원(**_`jwkwon0817`_**)**
+  * **임유경(**_`LimYuGyeong`_**)**
+  * **권혁중(**_`DanielKwon`_**)**
 
 #### 큰 목차의 제목이 폴더이름
 #### 폴더안에 [항목명_GitHub 아이디_작성한 횟수(총 3번 작성해야함).ipynb] 형식으로 저장
 ##### ex) 1_1_jwkwon0817_1.ipynb <- Binary classification에서 1st level에서 타이타닉 튜토리얼 1을 첫번째 필사함을 의미함.
 ---
-
-<a href="" target="_blank">
 
 # **Binary classification : Tabular data**
 

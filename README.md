@@ -2,17 +2,17 @@ _**본 캐글 스터디는 '커널 커리큘럼'(https://kaggle-kr.tistory.com/3
 
 _**(커널 커리큘럼 작성자 이유한님 - (https://www.kaggle.com/youhanlee)**_
 
+#### **Notion: (https://www.notion.so/invite/1034319fb33d9ba8a27b1b3faaa8b9102cd545dc)**
+
 ### **해당 커리큘럼은 각 커널당 3번씩 필사하는 것을 목표로 합니다.**
 ### **(+) 각 프로젝트 별 'Most Votes'를 한번 더 필사합니다.**
-
-### **Notion: https://www.notion.so/invite/1034319fb33d9ba8a27b1b3faaa8b9102cd545dc**
 
 #
 
 **[Study Member]**
-  * 권지원(jwkwon0817)
-  * 임유경(LimYuGyeong)
-  * 권혁중(DanielKwon)
+  * **권지원(**_jwkwon0817_**)**
+  * **임유경(**_LimYuGyeong_**)**
+  * **권혁중(**_DanielKwon_**)**
 
 #### 큰 목차의 제목이 폴더이름
 #### 폴더안에 [항목명_GitHub 아이디_작성한 횟수(총 3번 작성해야함).ipynb] 형식으로 저장

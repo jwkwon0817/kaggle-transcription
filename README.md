@@ -5,6 +5,8 @@ _**(커널 커리큘럼 작성자 이유한님 - (https://www.kaggle.com/youhanl
 ### **해당 커리큘럼은 각 커널당 3번씩 필사하는 것을 목표로 합니다.**
 ### **(+) 각 프로젝트 별 'Most Votes'를 한번 더 필사합니다.**
 
+### **Notion: https://www.notion.so/invite/1034319fb33d9ba8a27b1b3faaa8b9102cd545dc**
+
 #
 
 **[Study Member]**

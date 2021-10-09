@@ -1,8 +1,8 @@
-_**본 캐글 스터디는 '커널 커리큘럼'(https://kaggle-kr.tistory.com/32) 을 참고합니다.**_
+_**본 캐글 스터디는 <a href="https://kaggle-kr.tistory.com/32" target="_blank">커널 커리큘럼</a>을 참고합니다.**_
 
-_**(커널 커리큘럼 작성자 이유한님 - (https://www.kaggle.com/youhanlee)**_
+_**커널 커리큘럼 작성자 <a href="https://www.kaggle.com/youhanlee" target="_blank">이유한</a>님**_
 
-#### **Notion: (https://www.notion.so/invite/1034319fb33d9ba8a27b1b3faaa8b9102cd545dc)**
+#### **Notion: _<a href="https://www.notion.so/invite/1034319fb33d9ba8a27b1b3faaa8b9102cd545dc" target="_blank">NotionLink</a>_**
 
 ### **해당 커리큘럼은 각 커널당 3번씩 필사하는 것을 목표로 합니다.**
 ### **(+) 각 프로젝트 별 'Most Votes'를 한번 더 필사합니다.**
@@ -19,14 +19,16 @@ _**(커널 커리큘럼 작성자 이유한님 - (https://www.kaggle.com/youhanl
 ##### ex) 1_1_jwkwon0817_1.ipynb <- Binary classification에서 1st level에서 타이타닉 튜토리얼 1을 첫번째 필사함을 의미함.
 ---
 
+<a href="" target="_blank">
+
 # **Binary classification : Tabular data**
 
-### **1st level. Titanic: Machine Learning from Disaster**
-  * 타이타닉 튜토리얼 1 - Exploratory data analysis, visualization, machine learning\
-    - Most Votes : https://www.kaggle.com/startupsci/titanic-data-science-solutions
-  * EDA To Prediction(DieTanic)
-  * Titanic Top 4% with ensemble modeling
-  * Introduction to Ensembling/Stacking in Python
+### **<a href="https://www.kaggle.com/c/titanic" target="_blank">1st level. Titanic: Machine Learning from Disaster</a>**
+  * <a href="https://kaggle-kr.tistory.com/17?category=868316" target="_blank">타이타닉 튜토리얼 1 - Exploratory data analysis, visualization, machine learning</a>
+    - Most Votes : _<a href="https://www.kaggle.com/startupsci/titanic-data-science-solutions" target="_blank">titanic-data-science-solutions</a>_
+  * <a href="https://www.kaggle.com/ash316/eda-to-prediction-dietanic" target="_blank">EDA To Prediction(DieTanic)</a>
+  * <a href="https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling" target="_blank">Titanic Top 4% with ensemble modeling</a>
+  * <a href="https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python" target="_blank">Introduction to Ensembling/Stacking in Python</a>
 
 ### **2nd level. Porto Seguro’s Safe Driver Prediction**
   * Data Preparation & Exploration

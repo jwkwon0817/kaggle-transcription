@@ -1,4 +1,4 @@
-_**본 [KaggleStudy](https://github.com/jwkwon0817/KaggleStudy/)는 [KernelCurriculum](https://kaggle-kr.tistory.com/32)을 참고합니다.**_
+_**본 [kaggle-transcription](https://github.com/jwkwon0817/kaggle-transcription/)는 [KernelCurriculum](https://kaggle-kr.tistory.com/32)을 참고합니다.**_
 
 _**커널 커리큘럼 작성자 [이유한](https://www.kaggle.com/youhanlee)님**_
 
